@@ -20,7 +20,7 @@ If you welcome contributions, provide guidelines on how others can contribute to
 
 ## Credits
 
-Tom
+Tom and Tim
 
 ## Date created
 
